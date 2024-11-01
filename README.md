@@ -40,10 +40,10 @@ sebuah metode untuk menghasilkan pola fraktal menggunakan iterasi acak. Proyek i
 5. Follow the GUI Instruction
 
 ## Example Result
-- gui
+### GUI
 ![GUI](image/GUI.png)
 
-- result
+### Result
 ![Result](image/Result.png)
 
 ## Technologies Used
